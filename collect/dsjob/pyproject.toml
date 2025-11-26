@@ -1,0 +1,12 @@
+[project]
+name = "dsjob"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "bs4>=0.0.2",
+    "ipython>=9.7.0",
+    "scrapy>=2.13.4",
+    "selenium>=4.38.0",
+]
